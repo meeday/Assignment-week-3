@@ -125,5 +125,5 @@ clipboard.addEventListener("click", copyPassword);
 function copyPassword() {
   document.querySelector('[aria-label="Generated Password"]').select();
   document.execCommand('copy');
-  alert("Password Copied to clipboard!");
+  alert("Copied to clipboard!");
 }
