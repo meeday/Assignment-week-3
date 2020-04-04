@@ -120,7 +120,7 @@ function UserInput(ps) {
 // I had to use the aria-label for selection because the id was not stable
 var clipboard = document.getElementById("clipboard");
 
-clipboard.addEventListener("click", copyPassword);
+clipboard.addEventListener("click", copyPassword)
 
 function copyPassword() {
   document.querySelector('[aria-label="Generated Password"]').select();
