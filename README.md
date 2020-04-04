@@ -26,9 +26,9 @@ User must select at least one of the above criteria otherwise the user will have
 ### Links
  
  __GitHUB Repository Link__ 
- [https://github.com/meeday/Assignment-week-3]
+ https://github.com/meeday/Assignment-week-3
 
  __Deployed Application Link__
- [https://meeday.github.io/Assignment-week-3/]
+ https://meeday.github.io/Assignment-week-3/
 
 
